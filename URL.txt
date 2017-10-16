@@ -1,0 +1,3 @@
+https://api.androidhive.info/images/food/1.jpg
+
+https://api.androidhive.info/json/menu.json
